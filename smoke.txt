@@ -1,2 +1,3 @@
 smoke test 1
 smoke test 2
+push event probe 3
